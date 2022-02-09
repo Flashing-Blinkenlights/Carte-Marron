@@ -1,0 +1,6 @@
+
+= Boiling an egg =
+Place {vessel:pot:small} in/on {appliance}
+Boil {amount} of water and pour it into the {vessel:flameproof+, (id)}
+Add {stereotype, (amounts), (desc)} to {vessel, (type), (size), (desc)}
+Heat {vessel} (at {temperature}) (for {time} | until {desc})
